@@ -1,0 +1,15 @@
+C:\Users\brunno\Desktop\testemesa2\testemesa2\bin\Debug\net9.0\testemesa2.exe
+C:\Users\brunno\Desktop\testemesa2\testemesa2\bin\Debug\net9.0\testemesa2.deps.json
+C:\Users\brunno\Desktop\testemesa2\testemesa2\bin\Debug\net9.0\testemesa2.runtimeconfig.json
+C:\Users\brunno\Desktop\testemesa2\testemesa2\bin\Debug\net9.0\testemesa2.dll
+C:\Users\brunno\Desktop\testemesa2\testemesa2\bin\Debug\net9.0\testemesa2.pdb
+C:\Users\brunno\Desktop\testemesa2\testemesa2\obj\Debug\net9.0\testemesa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunno\Desktop\testemesa2\testemesa2\obj\Debug\net9.0\testemesa2.AssemblyInfoInputs.cache
+C:\Users\brunno\Desktop\testemesa2\testemesa2\obj\Debug\net9.0\testemesa2.AssemblyInfo.cs
+C:\Users\brunno\Desktop\testemesa2\testemesa2\obj\Debug\net9.0\testemesa2.csproj.CoreCompileInputs.cache
+C:\Users\brunno\Desktop\testemesa2\testemesa2\obj\Debug\net9.0\testemesa2.sourcelink.json
+C:\Users\brunno\Desktop\testemesa2\testemesa2\obj\Debug\net9.0\testemesa2.dll
+C:\Users\brunno\Desktop\testemesa2\testemesa2\obj\Debug\net9.0\refint\testemesa2.dll
+C:\Users\brunno\Desktop\testemesa2\testemesa2\obj\Debug\net9.0\testemesa2.pdb
+C:\Users\brunno\Desktop\testemesa2\testemesa2\obj\Debug\net9.0\testemesa2.genruntimeconfig.cache
+C:\Users\brunno\Desktop\testemesa2\testemesa2\obj\Debug\net9.0\ref\testemesa2.dll
